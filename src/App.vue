@@ -130,6 +130,7 @@ provide('cartActions', {
       </div>
     </div>
   </div>
+  <div>Hello World</div>
 </template>
 
 <style scoped></style>
